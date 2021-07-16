@@ -24,5 +24,9 @@ key-build*
 .emacs.desktop*
 TAGS*~
 git-src
+.git-credentials
+/*.log
 .project
 .cproject
+.ccache
+.vscode*
